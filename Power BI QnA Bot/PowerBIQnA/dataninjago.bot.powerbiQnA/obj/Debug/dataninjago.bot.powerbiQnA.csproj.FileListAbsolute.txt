@@ -1,0 +1,63 @@
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Bot Application.dll.config
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Bot Application.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Bot Application.pdb
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Autofac.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Chronic.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Microsoft.Bot.Builder.Autofac.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Microsoft.Bot.Builder.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Microsoft.Bot.Connector.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Microsoft.IdentityModel.Logging.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Microsoft.IdentityModel.Protocols.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Microsoft.IdentityModel.Tokens.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Microsoft.Rest.ClientRuntime.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Newtonsoft.Json.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\System.Net.Http.Formatting.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\System.Web.Http.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\System.Web.Http.WebHost.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Autofac.xml
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Microsoft.Bot.Builder.xml
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Microsoft.Bot.Builder.Autofac.xml
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Microsoft.Bot.Connector.xml
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Microsoft.IdentityModel.Logging.xml
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Microsoft.IdentityModel.Protocols.xml
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Microsoft.IdentityModel.Tokens.xml
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\Newtonsoft.Json.xml
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\System.Net.Http.Formatting.xml
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\System.Web.Http.xml
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\System.Web.Http.WebHost.xml
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\ar\Microsoft.Bot.Builder.resources.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\cs\Microsoft.Bot.Builder.resources.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\en\Microsoft.Bot.Builder.resources.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\es\Microsoft.Bot.Builder.resources.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\fa\Microsoft.Bot.Builder.resources.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\fr\Microsoft.Bot.Builder.resources.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\it\Microsoft.Bot.Builder.resources.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\ja\Microsoft.Bot.Builder.resources.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\nl\Microsoft.Bot.Builder.resources.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\ru\Microsoft.Bot.Builder.resources.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\ar\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\cs\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\de-dE\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\en\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\es\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\fa\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\obj\Debug\dataninjago.bot.powerbiQnA.csprojResolveAssemblyReference.cache
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\obj\Debug\dataninjago.bot.powerbiQnA.csproj.CoreCompileInputs.cache
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\obj\Debug\Bot Application.dll
+E:\Github\Microsoft Cognitive Services\Power BI QnA Bot\PowerBIQnA\dataninjago.bot.powerbiQnA\obj\Debug\Bot Application.pdb
